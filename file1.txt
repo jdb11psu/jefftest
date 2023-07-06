@@ -1,5 +1,5 @@
 File 1.
 Here's a new line...
-Another.
+Another line.
 More.
-Line.
+Lines.
